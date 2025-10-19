@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,UnitPrice
+P1000,Electronics Item 0,Electronics,3182.86
+P1001,Accessories Item 1,Electronics,9835.8
+P1002,Groceries Item 2,Groceries,8287.89
+P1003,Groceries Item 3,Stationery,3501.5
+P1004,Accessories Item 4,Stationery,8941.67
+P1005,Apparel Item 5,Stationery,12189.1
+P1006,Groceries Item 6,Electronics,345.86
+P1007,Electronics Item 7,Accessories,12135.83
+P1008,Electronics Item 8,Electronics,10547.56
+P1009,Stationery Item 9,Accessories,5268.7
+P1010,Groceries Item 0,Apparel,2543.32
+P1011,Apparel Item 1,Electronics,14368.89
+P1012,Accessories Item 2,Electronics,5214.77
+P1013,Accessories Item 3,Electronics,1618
+P1014,Apparel Item 4,Stationery,1676.57
+P1015,Stationery Item 5,Stationery,12750.54
+P1016,Accessories Item 6,Accessories,9154.96
+P1017,Groceries Item 7,Accessories,12155.14
+P1018,Stationery Item 8,Electronics,11013.54
+P1019,Groceries Item 9,Accessories,8159.36
