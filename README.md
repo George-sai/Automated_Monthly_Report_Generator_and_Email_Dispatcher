@@ -8,7 +8,6 @@
 
 ---
 
-## Demo
 ![Professional Excel screenshot](A_professional_Excel.png)
 
 ---
